@@ -2,14 +2,14 @@
 
 CS2 oyuncularının Steam, Leetify ve Faceit istatistiklerini çıkaran basit C# uygulaması.
 
-## 🚀 Özellikler
+## Özellikler
 
 - Steam profil bilgileri (seviye, arkadaş sayısı, oyun süresi)
 - Leetify istatistikleri (AIM, K/D, Rating)
 - Faceit profil verileri (ELO, kazanma oranı)
 - Silah istatistikleri ve koleksiyon eşyaları
 
-## 📊 Örnek Çıktı
+## Örnek Çıktı
 
 ```
 === CS2 OYUNCU İSTATİSTİKLERİ ===
@@ -30,16 +30,3 @@ Kazanma Oranı: 59% / 57%
 ak47: 1,234 leş, 45.2% isabet
 m4a1: 987 leş, 42.1% isabet
 ```
-
-## 🛠️ Gereksinimler
-
-- .NET 6.0 veya üzeri
-- Microsoft WebView2 Runtime
-
-## 📝 Lisans
-
-MIT License - Özgürce kullanabilirsiniz!
-
----
-
-⭐ Beğendiyseniz bir yıldız verin!
