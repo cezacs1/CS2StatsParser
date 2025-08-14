@@ -31,7 +31,7 @@ namespace CS2StatsParser
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            var form = new Form { Width = 1024, Height = 768, Text = "CS2 İstatistik Ayrıştırıcısı" };
+            var form = new Form { Width = 1024, Height = 768, Text = "CS2 Stats Parser" };
             var webView = new WebView2 { Dock = DockStyle.Fill };
             form.Controls.Add(webView);
 
@@ -142,4 +142,5 @@ namespace CS2StatsParser
             Application.Run(form);
         }
     }
+
 }
